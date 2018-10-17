@@ -1,3 +1,8 @@
+Getting and Cleaning Data Project
+=================================
+Author: Antsa R. Estoppey
+
+
 This is the course project for [Getting and Cleaning Data] course on Coursera. Code is written in R in file. Source file is run_analysis.R. This R script does the following things:
 
     1/ Download the dataset and unzip all datas
